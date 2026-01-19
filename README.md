@@ -1,6 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
+#Intall this 
+
+npm install autoprefixer@10.4.15 postcss@8.4.29 tailwindcss@3.3.3 react-icons@4.11.0 next-themes@0.2.1
+
 
 First, run the development server:
 
